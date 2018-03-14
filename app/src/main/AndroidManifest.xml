@@ -9,13 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-       <!-- <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDdHMWUX2wPTksf5a7Mj898m1Pik6Bu4W8" />-->
-
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBIZSt7WK2rVbTD8IPb-WRdor2GuCP6C8M" />
+            android:value="ENTER_YOUR_API_KEY" />
 
         <activity android:name="com.delaroystudios.locationgeo.MainActivity">
             <intent-filter>
